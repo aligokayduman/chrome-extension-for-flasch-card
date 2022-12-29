@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Word Adder For FlashCard",
+  "description": "For private using",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "word_adder.png"
+  }
+}
